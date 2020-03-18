@@ -53,6 +53,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-03-18 20:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-18 18:10:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2020-03-17 23:19:43 +0800"
@@ -62,6 +80,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -77,21 +101,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-03-18 00:08:09 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-18 00:08:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-03-17 22:53:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-18 21:34:12 +0800"
     },
     "done": true
   },
@@ -104,6 +134,18 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2020-03-17 23:53:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-18 19:25:55 +0800"
     },
     "done": true
   },
@@ -131,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
@@ -149,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-18 21:11:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-03-17 22:55:10 +0800"
@@ -158,6 +212,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-17 23:07:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -203,6 +263,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-03-18 18:10:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-17 22:50:19 +0800"
@@ -233,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-18 20:00:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
@@ -251,15 +335,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2020-03-18 00:39:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-18 00:52:12 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
-      "has_log2": "2020-03-18 00:39:20 +0800"
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
     },
     "done": true
   },
@@ -275,10 +365,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-18 18:29:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2020-03-17 22:51:20 +0800",
+      "cooked_mutton": "2020-03-18 19:55:54 +0800",
       "apple": "2020-03-18 00:46:37 +0800",
+      "potato": "2020-03-19 01:05:59 +0800",
       "bread": "2020-03-18 01:13:01 +0800",
       "rotten_flesh": "2020-03-18 00:49:29 +0800",
       "cooked_chicken": "2020-03-17 23:49:35 +0800",
@@ -316,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
@@ -325,6 +435,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-18 01:09:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2020-03-18 18:29:03 +0800"
     },
     "done": true
   },
@@ -343,6 +459,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2020-03-18 20:02:23 +0800"
     },
     "done": true
   },
@@ -406,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2020-03-18 20:41:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-03-17 22:53:48 +0800"
@@ -415,6 +543,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
     },
     "done": true
   },
@@ -448,9 +582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-18 20:46:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-03-17 22:53:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2020-03-17 23:28:23 +0800"
     },
     "done": true
   },
@@ -460,9 +606,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_gravel": "2020-03-17 23:28:23 +0800"
+      "has_redstone_torch": "2020-03-19 00:08:17 +0800"
     },
     "done": true
   },
@@ -482,6 +628,24 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2020-03-18 19:46:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -515,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-18 21:20:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-03-18 00:51:21 +0800",
@@ -530,6 +700,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -566,6 +742,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-03-18 00:02:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
     },
     "done": true
   },
@@ -635,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-03-18 19:26:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-03-17 22:53:48 +0800"
@@ -665,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-19 00:22:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
@@ -680,6 +874,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-03-17 23:09:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-03-18 20:42:58 +0800"
     },
     "done": true
   },
@@ -707,19 +907,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-03-18 21:34:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2020-03-17 22:48:29 +0800",
       "skeleton": "2020-03-18 00:28:33 +0800",
       "zombie": "2020-03-17 22:47:18 +0800",
+      "silverfish": "2020-03-19 00:40:53 +0800",
       "witch": "2020-03-18 01:05:29 +0800",
-      "spider": "2020-03-18 00:22:07 +0800"
+      "spider": "2020-03-18 00:22:07 +0800",
+      "creeper": "2020-03-18 20:46:46 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-18 18:29:03 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-03-17 23:19:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-18 22:55:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2020-03-18 21:34:12 +0800"
     },
     "done": true
   },
@@ -741,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-03-18 00:08:09 +0800"
@@ -753,9 +1003,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-18 18:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-03-18 20:42:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-03-17 23:19:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-18 18:29:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -765,9 +1039,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-18 18:06:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-03-17 22:55:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-18 18:06:11 +0800"
     },
     "done": true
   },
@@ -798,6 +1084,18 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-17 23:28:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2020-03-18 19:46:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-18 19:25:11 +0800"
     },
     "done": true
   }
