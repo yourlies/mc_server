@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-03-19 15:16:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-03-18 23:45:42 +0800"
@@ -164,6 +170,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-17 21:29:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-03-19 20:00:34 +0800"
     },
     "done": true
   },
@@ -312,6 +324,7 @@
       "apple": "2020-03-17 20:08:06 +0800",
       "bread": "2020-03-17 21:07:23 +0800",
       "rotten_flesh": "2020-03-17 23:29:46 +0800",
+      "cookie": "2020-03-19 15:12:18 +0800",
       "cooked_chicken": "2020-03-17 23:59:22 +0800",
       "mushroom_stew": "2020-03-17 23:58:53 +0800",
       "carrot": "2020-03-17 22:20:44 +0800"
@@ -327,6 +340,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-03-18 14:06:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-03-20 01:53:27 +0800"
     },
     "done": true
   },
@@ -696,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2020-03-20 01:53:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-17 22:39:18 +0800"
@@ -774,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-03-19 17:04:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2020-03-18 01:11:28 +0800"
@@ -819,6 +850,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-17 22:39:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2020-03-19 15:58:50 +0800"
     },
     "done": true
   },
@@ -1008,6 +1045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-03-19 15:58:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-17 22:39:18 +0800"
@@ -1017,6 +1060,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-17 21:29:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-03-19 15:16:58 +0800"
     },
     "done": true
   },
@@ -1376,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2020-03-19 14:22:14 +0800"
+    },
+    "done": true
+  },
   "flammpfeil.slashblade:wood": {
     "criteria": {
       "crafting": "2020-03-17 20:19:36 +0800"
@@ -1403,6 +1458,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-17 22:39:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2020-03-19 15:58:50 +0800"
     },
     "done": true
   },
@@ -1445,6 +1506,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-17 22:39:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2020-03-19 14:22:14 +0800"
     },
     "done": true
   },
